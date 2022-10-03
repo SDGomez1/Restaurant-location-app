@@ -1,0 +1,15 @@
+.RegisterPage-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height:80vh ;
+    justify-content: center;
+    
+}
+
+.RegisterPage-container h1 {
+    text-align: center;
+}
+.RegisterPage-container button {
+    margin-top: 60px;
+}

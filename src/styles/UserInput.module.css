@@ -1,0 +1,22 @@
+.UserInput {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 13px;
+}
+
+.input-title {
+    font-size: 12px;
+    font-weight: 500;
+    margin-left: 64px;
+    padding:10px 0px;
+}
+
+.input-text {
+    background: #FAFAFA;
+    border: 1px solid #929292;
+    border-radius: 16px;
+    height: 33px;
+    margin: 0px 54px;
+    padding: 0px 20px;
+
+}

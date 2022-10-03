@@ -1,0 +1,10 @@
+.optInButton{
+    background: #FF3D3D;
+    border-radius: 27px;
+    height: 34px;
+    width: 151px;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    border: none;
+}

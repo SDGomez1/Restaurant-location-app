@@ -1,0 +1,20 @@
+.CategoryCard {
+    width: 104px;
+    height: 104px;
+    flex: 0 0 auto;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0px 20px;
+}
+
+.CategoryCard p {
+    font-size: 12px;
+    text-align: center;
+}
+
+.CategoryCard-img {
+    width: 100%;
+    height: 70px;
+    background-color: gainsboro;
+    border-radius: 14px;
+}

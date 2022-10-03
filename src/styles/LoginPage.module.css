@@ -1,0 +1,15 @@
+.LoginPage-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height:80vh ;
+    justify-content: center;
+    
+}
+
+.LoginPage-container h1 {
+    text-align: center;
+}
+.LoginPage-container button {
+    margin-top: 60px;
+}

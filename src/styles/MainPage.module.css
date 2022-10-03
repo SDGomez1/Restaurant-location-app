@@ -1,0 +1,54 @@
+.MainPage-container {
+    height: 210px;
+    background: linear-gradient(110.4deg, #FF4646 1.01%, rgba(244, 82, 82, 0.88) 100.5%);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    
+}
+
+.MainPage-container h1 {
+    padding-top: 30px;
+    margin: 0px 0px 13px 36px;
+}
+
+.MainPage-container label {
+    
+    margin: 0px 0px 13px 36px;
+}
+
+.MainPage-container input {
+    
+    height: 33px;
+    margin: 13px 30px;
+    overflow-x: hidden;
+    background: #FFDEDE;
+    border-radius: 27px;
+    border: none;
+    padding: 0px 20px;
+
+}
+
+.MainPage-Categorycontainer {
+    display: flex;
+    padding: 20px;
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    overflow-y: hidden;
+
+}
+
+.MainPage-Recommendationcontainer {
+    display: flex;
+    flex-direction: column;
+    
+}
+.MainPage-Recommendationcontainer h1 {
+    padding-left: 20px;
+}
+
+.MainPage-Recommendationcontainer > div {
+    justify-self: center;
+    align-self: center;
+}
